@@ -1,8 +1,6 @@
 # Overview
 I wrote a tic tac toe program in python. This is something i have always wanted to learn how to make. I decided to make something a bit easy but also complex.
 
-{Describe your purpose for writing this software.}
-
 I wrote this to help me enhance my python skills. I previously made a gaming platform with python so i decided to use python language to make another software.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
